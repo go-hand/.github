@@ -2,4 +2,4 @@ Hello 👋. I'm not an application developer, but I enjoy writing small to mediu
 
 Contents (so far)
 
-* [From Bash to Go](https://github.com/go-hand/from-bash-to-go) - Code and accompanying text for a sample health check tool that started in Bash and was later rewritten in Go.
+* [From Bash to Go](https://github.com/go-hand/from-bash-to-go) - Code and accompanying text for a sample health check tool that started in Bash and continued in Go.
