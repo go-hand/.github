@@ -2,5 +2,6 @@ Hello 👋. I'm not an application developer but I enjoy writing programs. I sta
 
 Contents (so far)
 
+* [Why Go](https://github.com/go-hand/why-go) - Some of the language strengths.
 * [From Bash to Go](https://github.com/go-hand/from-bash-to-go) - Code and accompanying text for a sample health check tool that started in Bash and continued in Go.
 * [Dot file hiding file server](https://github.com/go-hand/dot-file-hiding-file-server) - A dialogue on Go interface embedding :-)
