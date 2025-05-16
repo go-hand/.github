@@ -3,3 +3,4 @@ Hello 👋. I'm not an application developer but I enjoy writing programs. I sta
 Contents (so far)
 
 * [From Bash to Go](https://github.com/go-hand/from-bash-to-go) - Code and accompanying text for a sample health check tool that started in Bash and continued in Go.
+* [Dot file hiding file server](https://github.com/go-hand/dot-file-hiding-file-server) - A dialogue on Go interface embedding :-)
